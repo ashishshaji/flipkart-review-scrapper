@@ -1,3 +1,3 @@
 # python-review-scrapper
 
-deployed at : https://reviewscrapper1212.herokuapp.com/
+deployed at : https://flipkart-review-scrapper1212.herokuapp.com/
